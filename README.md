@@ -10,7 +10,7 @@
 * João Pedro Ferreira da Cruz
 
 ## 🗄️ Fonte dos Dados
-A base de dados utilizada é o arquivo `spam.csv`, originalmente disponibilizada no Kaggle (https://www.kaggle.com/code/karanbassan/spam-detection). Os dados foram importados utilizando o *encoding* `cp1252` para evitar erros de leitura e, em seguida, a base foi filtrada para manter apenas a coluna das "labels" (se é spam ou não) e a coluna das "features" (o texto bruto da mensagem).
+A base de dados utilizada é o arquivo `spam.csv`, originalmente disponibilizada no [Kaggle](https://www.kaggle.com/code/karanbassan/spam-detection). Os dados foram importados utilizando o *encoding* `cp1252` para evitar erros de leitura e, em seguida, a base foi filtrada para manter apenas a coluna das "labels" (se é spam ou não) e a coluna das "features" (o texto bruto da mensagem).
 
 ## 🧠 Tipo da Tarefa
 Trata-se de uma tarefa de **Classificação Binária** através de **Processamento de Linguagem Natural (PLN)**, utilizando aprendizado de máquina supervisionado.
@@ -48,7 +48,7 @@ Os dados foram divididos em 80% para treino e 20% para teste (`random_state=67`)
 * **João Pedro:** Confecção do código (Treinamento e teste do modelo de Classificação RandomForestClassifier) e edição do vídeo.
 
 ## 🎥 Link do Vídeo
-Link
+[Link clicável aqui!](https://youtu.be/Uv2gI1iUogE)
 
 ## 🤖 Declaração de Uso de Ferramentas de Inteligência Artificial
 Declaramos que ferramentas de Inteligência Artificial (como Gemini/ChatGPT) foram utilizadas pontualmente neste projeto para auxiliar na estruturação e revisão textual deste arquivo `README.md`, na formatação do notebook `spam_Caio_Dimitri_JoaoPedro.ipynb` e na divisão do roteiro de apresentação. A lógica de programação principal, o desenvolvimento das premissas dos algoritmos e a execução dos testes foram conduzidas de forma autoral pelo grupo.
